@@ -1,0 +1,6 @@
+Je dois monitorer :
+ - CPU
+ - RAM
+ - Disque
+ - Reseau
+ - Pocess
